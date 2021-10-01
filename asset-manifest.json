@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Drone-Flight-Planner/static/css/main.e7c3e47a.chunk.css",
+    "main.js": "/Drone-Flight-Planner/static/js/main.0b1eab38.chunk.js",
+    "main.js.map": "/Drone-Flight-Planner/static/js/main.0b1eab38.chunk.js.map",
+    "runtime-main.js": "/Drone-Flight-Planner/static/js/runtime-main.2117ac03.js",
+    "runtime-main.js.map": "/Drone-Flight-Planner/static/js/runtime-main.2117ac03.js.map",
+    "static/js/2.c81de9b7.chunk.js": "/Drone-Flight-Planner/static/js/2.c81de9b7.chunk.js",
+    "static/js/2.c81de9b7.chunk.js.map": "/Drone-Flight-Planner/static/js/2.c81de9b7.chunk.js.map",
+    "index.html": "/Drone-Flight-Planner/index.html",
+    "static/css/main.e7c3e47a.chunk.css.map": "/Drone-Flight-Planner/static/css/main.e7c3e47a.chunk.css.map",
+    "static/js/2.c81de9b7.chunk.js.LICENSE.txt": "/Drone-Flight-Planner/static/js/2.c81de9b7.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/Drone-Flight-Planner/static/media/jordaan-amsterdam-map.cd81cf7a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2117ac03.js",
+    "static/js/2.c81de9b7.chunk.js",
+    "static/css/main.e7c3e47a.chunk.css",
+    "static/js/main.0b1eab38.chunk.js"
+  ]
+}
